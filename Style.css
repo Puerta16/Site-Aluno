@@ -1,0 +1,36 @@
+@font-face {
+  font-family:"Dina" ;
+  src: url(./Fonte/DynaPuff-VariableFont_wdth\,wght.ttf);
+}
+h3{
+  font-family: "Dina";
+  color: rgb(00, 00, 00);
+}
+
+
+img{
+  max-width: 100px;
+}
+
+body{
+
+background-image: radial-gradient(rgb(35, 52, 211), rgb(23, 151, 226));
+font-family: "Dina", sans-serif;
+color: white;
+
+}
+
+@font-face {
+  font-family: "Aboreto";
+  src: url(./Fonte/Aboreto-Regular.ttf);
+}
+h1{
+  font-family: "Aboreto";
+  color: rgb(00, 00, 00);
+}
+
+li{
+  color: rgb(00, 00, 00);
+
+}
+
