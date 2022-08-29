@@ -9,7 +9,7 @@ h3{
 
 
 img{
-  max-width: 100px;
+  max-width: 150px;
 }
 
 body{
@@ -33,4 +33,16 @@ li{
   color: rgb(00, 00, 00);
 
 }
+
+.Perfil{
+
+  max-width: 200px;
+}
+
+.Torcida{
+
+  max-width: 400px;
+
+}
+
 
